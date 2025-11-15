@@ -1,4 +1,4 @@
-#flashcards 
+#flashcards
 ***
 Используется для [[Архивирование]].
 ***Синтаксис***:
@@ -23,3 +23,4 @@
 >sudo tar cf /media/BigDisk/home.tar /home
 >sudo tar xf /media/BigDisk/home.tar
 >find playground -name 'file-A' -exec tar rf playground.tar '{}' '+'
+<!--SR:!2025-11-18,3,250-->
