@@ -12,4 +12,4 @@
 >find ~ -type f -name '* .bak' -delete
 >find ~ -type f -and -name '* .bak' -and -print
 - Работаем в домашней директории.
-<!--SR:!2025-11-16,1,230-->
+<!--SR:!2025-11-19,2,230-->

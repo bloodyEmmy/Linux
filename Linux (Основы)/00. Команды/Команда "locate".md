@@ -7,4 +7,4 @@
 >locate ssh
 >locate bin/zip
 >locate zip | grep bin ([[Команда "grep"]])
-<!--SR:!2025-11-16,1,230-->
+<!--SR:!2025-11-18,1,210-->

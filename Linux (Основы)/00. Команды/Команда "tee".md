@@ -9,4 +9,4 @@
 ***Пример***:
 >echo "Пример" | tee file1.txt file2.txt
 >ls /usr/bin | tee ls.txt | grep zip
-<!--SR:!2025-11-17,2,230-->
+<!--SR:!2025-11-22,5,230-->
